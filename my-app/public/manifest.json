@@ -1,0 +1,36 @@
+{
+"name": "SenTiakTiak",
+"short_name": "SenTiakTiak",
+"start_url": "/",
+"scope": "/",
+"display": "fullscreen",
+"display_override": [
+    "fullscreen",
+    "standalone",
+    "window-controls-overlay"
+],
+"description": "SenTiakTiak est l'application qui vous permet de vous deplacer en toute simplicité en moto. Avec SenTiakTiak, se déplacer n'a jamais été aussi simple!",
+"lang": "fr",
+"dir": "auto",
+"theme_color": "#fdd619",
+"background_color": "#000000",
+"orientation": "any",
+"categories": [
+    "lifestyle"
+],
+"icons": [
+    {
+        "src": "logo.png",
+        "sizes": "173x163",
+        "type": "image/png",
+        "purpose": "maskable"
+    },
+    {
+        "src": "logo.png",
+        "sizes": "173x163",
+        "type": "image/png",
+        "purpose": "any"
+    }
+],
+"prefer_related_applications": false
+}
